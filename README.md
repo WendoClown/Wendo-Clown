@@ -1,6 +1,3 @@
 {
-  "content": "Welcome to my server!",
-  "embeds": [
-    {
-  ]
+  "content": "Welcome to my server!"
 }
